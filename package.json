@@ -1,8 +1,8 @@
 {
     "name": "wss-iview",
-    "version": "3.4.2",
+    "version": "1.0.1",
     "title": "wssIView",
-    "description": "A high quality UI components Library with Vue.js",
+    "description": "wss ui库，基于iview修改",
     "homepage": "http://www.iviewui.com",
     "keywords": [
         "iview",
